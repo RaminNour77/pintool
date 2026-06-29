@@ -1,0 +1,17 @@
+Offset          Symbol name
+---------------------------------
+0000000000601ff8    __gmon_start__ (.rela.dyn)
+Offset          Symbol name
+---------------------------------
+0000000000602018    puts (.rela.plt)
+0000000000602020    __stack_chk_fail (.rela.plt)
+0000000000602028    printf (.rela.plt)
+0000000000602030    read (.rela.plt)
+0000000000602038    __libc_start_main (.rela.plt)
+0000000000602040    fgets (.rela.plt)
+0000000000602048    execve (.rela.plt)
+0000000000602050    prctl (.rela.plt)
+0000000000602058    __isoc99_sscanf (.rela.plt)
+0000000000602060    getegid (.rela.plt)
+0000000000602068    setregid (.rela.plt)
+GOT range: 0x602018 ~ 0x602068
